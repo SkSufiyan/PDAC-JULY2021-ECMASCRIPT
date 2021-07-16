@@ -1,4 +1,4 @@
-const fencingForTri =(h,d, a,numberofWire,Cost PerFeet) => {
+const fencingForTri =(h,d, a,numberofWire,costperfeet) => {
     constperimeter =h + b + a;
     const totalCost =perimter * numberofWire *costperfeet;
     return totalCost;
