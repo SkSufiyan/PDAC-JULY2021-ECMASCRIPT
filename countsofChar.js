@@ -1,5 +1,5 @@
 const countsofChar = (str) => {
-  const arrStr = str.split("");
+  const arrStr = str.split(" ");
   const newObj = {};
 
   arrStr.forEach((element) => {
