@@ -1,4 +1,3 @@
-  
-const divideBy115 = (num) => num % 115 === 0;
+const DivideBy115 = (num) => num % 115 === 0;
 
-console.log(divideBy115(4140))
+console.log(DivideBy115(4140));

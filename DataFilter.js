@@ -9,3 +9,11 @@ arr1.forEach((element) => {
 });
 
 console.log(arr2);
+
+// const ages = [32, 33, 16, 40];
+
+// ages.filter(checkAdult); // Returns [32, 33, 40]
+
+// function checkAdult(age) {
+//   return age >= 18;
+// }
